@@ -1,5 +1,5 @@
 package com.acttime.customer;
 
-public class GitHubDemo {
+public class GitHubDemo1 {
 
 }
